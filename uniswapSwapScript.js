@@ -158,5 +158,5 @@ async function sendUsdcToEth() {
     console.log("Balance of ETH of ", to, " after txn ", balance2)
 }
 
-// SendEthToUSDC()
-sendUsdcToEth()
+SendEthToUSDC()
+// sendUsdcToEth()
